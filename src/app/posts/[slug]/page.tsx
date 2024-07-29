@@ -22,7 +22,6 @@ export default async function Post({ params }: Params) {
     <main>
       <Alert preview={post.preview} />
       <Container>
-        <Header />
         <article className="mb-32">
           <PostHeader
             title={post.title}
@@ -50,7 +49,7 @@ export function generateMetadata({ params }: Params): Metadata {
     return notFound();
   }
 
-  const title = `${post.title} | Next.js Blog Example with ${CMS_NAME}`;
+  const title = `${post.title} | Chris Cardoza`;
 
   return {
     title,
