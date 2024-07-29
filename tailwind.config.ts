@@ -1,4 +1,5 @@
 import type { Config } from "tailwindcss";
+import { fontFamily } from "tailwindcss/defaultTheme";
 
 const config: Config = {
   darkMode: "class",
@@ -9,6 +10,12 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        tauri: ["var(--font-tauri)", ...fontFamily.sans],
+        cutive: ["var(--font-cutive)", ...fontFamily.sans],
+        mate: ["var(--font-mate)", ...fontFamily.sans],
+        mate2: ["var(--font-mate2)", ...fontFamily.sans],
+      },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
