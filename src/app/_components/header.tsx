@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { ThemeSwitcher } from "./theme-switcher";
 
 const Header = () => {
   return (
@@ -7,7 +6,6 @@ const Header = () => {
       <Link href="/" className="hover:underline">
         CHRIS CARDOZA
       </Link>
-      <ThemeSwitcher />
     </h2>
   );
 };
