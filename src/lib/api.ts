@@ -41,7 +41,6 @@ export function getPostBySlug(slug: string) {
 
 export function getAllPosts(): Post[] {
   const slugs = getPostSlugs();
-  console.log(slugs);
   const posts = slugs
     .map((slug) => getPostBySlug(slug))
     .filter((post): post is Post => post !== null)
