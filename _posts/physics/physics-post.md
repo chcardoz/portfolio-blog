@@ -1,6 +1,6 @@
 ---
-title: "Post with some math in it"
-excerpt: "I want to test if math is working"
+title: "Building a laser to power your phone"
+excerpt: "Lasers are cool, wires are not cool, I just want to power my phone"
 coverImage: "/assets/blog/hello-world/cover.jpg"
 date: "2024-08-01T05:35:07.322Z"
 author:
