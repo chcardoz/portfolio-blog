@@ -10,4 +10,6 @@ ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
 ---
 
-What is a hologram? A hologram is a picture that is created by projecting.
+( This is a draft. )
+
+Holography is a phenomenon where the light from a source is recorded on a photographic plate.

@@ -1,6 +1,6 @@
 ---
-title: "Simulation of a spring on a turntable"
-excerpt: "All the notes and code for the simulation of realistic spring on a rotating turntable."
+title: "Modern Economic Growth"
+excerpt: "Why some countries are rich, others poor, why some are growing and others not"
 coverImage: "/assets/blog/hello-world/cover.jpg"
 date: "2024-08-16T19:11:14.672Z"
 author:
@@ -11,5 +11,3 @@ ogImage:
 ---
 
 ( This is a draft. )
-
-The simulation

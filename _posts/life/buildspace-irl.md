@@ -10,6 +10,8 @@ ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
 ---
 
+( This is a draft. )
+
 So, buildspace IRL (in real life) has been more than two weeks in the past. I believe a reflection on the experience is warranted. Because a lot happened. Not just in IRL, the six weeks of nights and weekends was, how would I put it, unique.
 
 I tried to explain nights and weekends to some of my friends. But they did not seem to understand what it was; unless I said the word _Hackathon_. The confused grin turned into wide eyes with a smirk.
