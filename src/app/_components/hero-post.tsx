@@ -28,7 +28,7 @@ export function HeroPost({
       </div>
       <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8">
         <div>
-          <h3 className="mb-4 text-4xl lg:text-5xl leading-tight font-mate font-bold">
+          <h3 className="mb-4 text-xl lg:text-3xl leading-tight font-mate font-bold">
             <Link href={`/posts/${slug}`} className="hover:underline">
               {title}
             </Link>
