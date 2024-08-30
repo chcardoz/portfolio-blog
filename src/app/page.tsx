@@ -1,6 +1,7 @@
 import Container from "@/app/_components/container";
 import { HeroPost } from "@/app/_components/hero-post";
 import { getAllPosts } from "@/lib/api";
+import { MoreStories } from "./_components/more-stories";
 
 export default function Index() {
   const allPosts = getAllPosts();
@@ -20,6 +21,7 @@ export default function Index() {
           slug={heroPost.slug}
           excerpt={heroPost.excerpt}
         />
+        <MoreStories posts={morePosts} />
       </Container>
     </main>
   );
