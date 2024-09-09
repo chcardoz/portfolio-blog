@@ -3,6 +3,7 @@ title: "Hello World"
 excerpt: "Why it took me so long to create my place on the internet"
 coverImage: "/assets/blog/hello-world/cover.jpg"
 date: "2024-07-28T05:35:07.322Z"
+status: "draft"
 author:
   name: Chris Cardoza
   picture: "/assets/blog/authors/tim.jpeg"

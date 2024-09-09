@@ -3,6 +3,7 @@ title: "Thoughts on the buildpspace IRL experience"
 excerpt: "The most fun that I have had in a long time with talented and creative people"
 coverImage: "/assets/blog/hello-world/cover.jpg"
 date: "2024-08-16T19:11:14.672Z"
+status: "idea"
 author:
   name: Chris Cardoza
   picture: "/assets/blog/authors/tim.jpeg"

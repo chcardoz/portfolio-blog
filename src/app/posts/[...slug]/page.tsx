@@ -6,6 +6,7 @@ import Alert from "@/app/_components/alert";
 import Container from "@/app/_components/container";
 import { PostBody } from "@/app/_components/post-body";
 import { PostHeader } from "@/app/_components/post-header";
+import CustomBadge from "@/app/_components/custom-badge";
 
 export default async function Post({ params }: Params) {
   const slug = params.slug.join("/"); // Join slug segments by '/'
@@ -27,6 +28,7 @@ export default async function Post({ params }: Params) {
             coverImage={post.coverImage}
             date={post.date}
             author={post.author}
+            status={post.status}
           />
           <PostBody content={content} />
         </article>

@@ -1,8 +1,8 @@
 ---
-title: "Simulation of a spring on a turntable"
-excerpt: "All the notes and code for the simulation of realistic spring on a rotating turntable."
+title: "Automatic Differentiatin in JavaScript"
+excerpt: "A small scale library of automatic differentiation based on Karpathy's work"
 coverImage: "/assets/blog/hello-world/cover.jpg"
-date: "2024-08-16T19:11:14.672Z"
+date: "2024-07-03T19:11:14.672Z"
 status: "idea"
 author:
   name: Chris Cardoza
@@ -12,5 +12,3 @@ ogImage:
 ---
 
 ( This is a draft. )
-
-The simulation
