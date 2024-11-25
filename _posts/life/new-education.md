@@ -11,8 +11,6 @@ ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
 ---
 
-( This is a draft. )
-
 ## How did we get here?
 
 Who made the current system? Was it the government? Was it the idea of a single person?
